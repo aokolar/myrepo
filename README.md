@@ -1,1 +1,1 @@
-# myreposome words i wrote on the compbio server
+# myrepo some words i wrote on the compbio server
